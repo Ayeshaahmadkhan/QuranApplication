@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quran Application</string>
+    <string name="enter_position">Enter Position</string>
+    <string name="surah_contents">Surah Contents</string>
+    <string name="go_to_ayat">Go to Ayat</string>
+    <string name="selected_ayat">Selected Ayat</string>
 </resources>

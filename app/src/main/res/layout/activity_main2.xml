@@ -3,11 +3,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
-    <ListView
-        android:id="@+id/surahListView"
+    <TextView
+        android:id="@+id/surah_content_textview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:background="@android:color/white" />
 
 </RelativeLayout>

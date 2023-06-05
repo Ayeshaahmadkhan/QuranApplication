@@ -1,9 +1,9 @@
+
+
 package com.example.quranapplication;
-
-
 import java.util.List;
 
-public class QDH {
+public class  QDH {
     public int [] PSP = {
             1,
             150,
@@ -36,7 +36,7 @@ public class QDH {
             5306,
             5748,
     };
-    public int[] SSP = {
+    public  static int[] SSP = {
             1,
             8,
             295,
@@ -152,8 +152,8 @@ public class QDH {
             6336,
             6342,
     };
-    public int[] surahAyatCount = {
-            7,
+    public static int[] surahAyatCount = {
+            6,
             286,
             200,
             176,
@@ -580,6 +580,10 @@ public class QDH {
     public int getParahStart(int parahNumber) {
         return PSP[parahNumber];
     }
+
+
 }
+
+
 
 

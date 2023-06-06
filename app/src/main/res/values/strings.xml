@@ -4,4 +4,6 @@
     <string name="surah_contents">Surah Contents</string>
     <string name="go_to_ayat">Go to Ayat</string>
     <string name="selected_ayat">Selected Ayat</string>
+    <string name="enter_ayat_number">Enter Ayat Number</string>
+    <string name="GetAyat">Go to Ayat</string>
 </resources>
